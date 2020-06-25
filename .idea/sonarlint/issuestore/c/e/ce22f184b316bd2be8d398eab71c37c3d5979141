@@ -1,0 +1,9 @@
+
+^squid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8†€¿®§.
+ysquid:UselessImportCheck"IRemove this unused import 'org.springframework.web.servlet.ModelAndView'.(Ç¨ÿäûÿÿÿÿ8†€¿®§.
+hsquid:S4488E"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(²†ÁÌ8¢£´Ú¦.
+csquid:S4684G"@Replace this persistent entity with a simple POJO or DTO object.(ÈþÌºûÿÿÿÿ8øà”­§.
+isquid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.(¦³’É8ä›Ý¦.
+esquid:S4488>"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ˆÜŽ=8¢£´Ú¦.
+[
+squid:S106@"9Replace this use of System.out or System.err by a logger.(‰šéáþÿÿÿÿ8¬‘È®§.
